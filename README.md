@@ -5,7 +5,7 @@ Opa! Me chamo Deivid, sou entusiasta no que envolve computação, desde sempre a
 
 ## Sobre mim 💡
 
-- Estudando sobre computação desde 2016 📚
+- Estudando sobre progamação desde 2016 📚
 - Sempre apreciando uma boa música 🎧
 - Atualmente estudando Progamação 💻
 - Tento praticar do meu Hobbie em diferentes projetos, espero compartilhar alguns aqui!!

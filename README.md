@@ -16,7 +16,7 @@ Opa! Me chamo Deivid, sou entusiasta no que envolve computação, desde sempre a
   <img alt="Deivid-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="Deivid-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
   <img  alt="Deivid-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <p >HTML, CSS & JavaScript</p>
+  <p >HTML & CSS & JavaScript</p>
           
   
 
@@ -26,8 +26,8 @@ Opa! Me chamo Deivid, sou entusiasta no que envolve computação, desde sempre a
 
 <div style="display: inline-block">
   <a href="https://github.com/Robssonm">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Robssonm&show_icons=true&bg_color=0D1117&border_color=4b0082&title_color=d5bfa7&text_color=C3D1D9&icon_color=695f56&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robssonm&layout=compact&langs_count=10&bg_color=0D1117&border_color=4b0082&title_color=d5bfa7&text_color=C3D1D9"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Robssonm&show_icons=true&bg_color=0D1117&border_color=4b0082&title_color=6959CD&text_color=6959CD&icon_color=695f56&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robssonm&layout=compact&langs_count=10&bg_color=0D1117&border_color=4b0082&title_color=6959CD&text_color=6959CD"/>
   
   
 </div>
